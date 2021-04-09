@@ -1,9 +1,7 @@
 ### Hi there 👋
-
+<!---
 **songWreng/songWreng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,7 +10,23 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
+### 👀 Active Repo
+<br />
+<p>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=dumplingbao&repo=davinci&theme=radical" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=dumplingbao&repo=metabase&theme=radical" />
+</p>
+
+### 🙈 statistics
+<p>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=dumplingbao&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="dumplingbao's GitHub Stats" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumplingbao&theme=radical&layout=compact&hide=glsl,python" />
+</p>
+
+<!---
 ![](https://github-readme-stats.vercel.app/api?username=mayandev)
+-->
 
 
