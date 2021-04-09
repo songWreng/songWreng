@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 <!---
 ### 👀 Active Repo
 <br />
-<p>
+<p>-->
 <!---<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=songWreng&repo=davinci&theme=radical" />-->
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=songWreng&repo=pattern-recognition-coursework" />
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=songWreng&repo=matlabDemo" />
+<!---<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=songWreng&repo=pattern-recognition-coursework" />-->
+<!---<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=songWreng&repo=matlabDemo" />-->
 <!---<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=songWreng&repo=metabase&theme=radical" />-->
+<!---
 </p>
 -->
 
