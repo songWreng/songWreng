@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!---
 ### 👀 Active Repo
 <br />
 <p>
@@ -20,6 +21,7 @@ Here are some ideas to get you started:
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=songWreng&repo=matlabDemo" />
 <!---<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=songWreng&repo=metabase&theme=radical" />-->
 </p>
+-->
 
 ### 🙈 statistics
 <p>
